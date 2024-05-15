@@ -1,0 +1,166 @@
+/* Myriad Pro Font */
+@font-face {
+font-family: 'Myriad Pro Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Regular'), url('../fonts/myriad-pro-webfont/MYRIADPRO-REGULAR.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Myriad Pro Condensed';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Condensed'), url('../fonts/myriad-pro-webfont/MYRIADPRO-COND.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Myriad Pro Condensed Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Condensed Italic'), url('../fonts/myriad-pro-webfont/MYRIADPRO-CONDIT.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Myriad Pro Light';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Light'), url('../fonts/myriad-pro-webfont/MyriadPro-Light.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Myriad Pro Semibold';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Semibold'), url('../fonts/myriad-pro-webfont/MYRIADPRO-SEMIBOLD.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Myriad Pro Semibold Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Semibold Italic'), url('../fonts/myriad-pro-webfont/MYRIADPRO-SEMIBOLDIT.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Myriad Pro Bold Condensed';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Bold Condensed'), url('../fonts/myriad-pro-webfont/MYRIADPRO-BOLDCOND.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Myriad Pro Bold';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Bold'), url('../fonts/myriad-pro-webfont/MYRIADPRO-BOLD.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Myriad Pro Bold Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Bold Italic'), url('../fonts/myriad-pro-webfont/MYRIADPRO-BOLDIT.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Myriad Pro Bold Condensed Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Bold Condensed Italic'), url('../fonts/myriad-pro-webfont/MYRIADPRO-BOLDCONDIT.woff') format('woff');
+}
+
+
+/* Input Mono Font */
+@font-face {
+font-family: 'InputMono-Black';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-Black.ttf');
+}
+@font-face {
+font-family: 'InputMono-BlackItalic';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-BlackItalic.ttf');
+}
+@font-face {
+font-family: 'InputMono-Bold';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-Bold.ttf');
+}
+@font-face {
+font-family: 'InputMono-BoldItalic';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-BoldItalic.ttf');
+}
+@font-face {
+font-family: 'InputMono-ExtraLight';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-ExtraLight.ttf');
+}
+@font-face {
+font-family: 'InputMono-ExtraLightItalic';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-ExtraLightItalic.ttf');
+}
+@font-face {
+font-family: 'InputMono-Italic';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-Italic.ttf');
+}
+@font-face {
+font-family: 'InputMono-Light';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-Light.ttf');
+}
+@font-face {
+font-family: 'InputMono-LightItalic';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-LightItalic.ttf');
+}
+@font-face {
+font-family: 'InputMono-Medium';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-Medium.ttf');
+}
+@font-face {
+font-family: 'InputMono-MediumItalic';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-MediumItalic.ttf');
+}
+@font-face {
+font-family: 'InputMono-Regular';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-Regular.ttf');
+}
+@font-face {
+font-family: 'InputMono-Thin';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-Thin.ttf');
+}
+@font-face {
+font-family: 'InputMono-ThinItalic';
+font-style: normal;
+font-weight: normal;
+src: url('../fonts/inputmono/InputMono-ThinItalic.ttf');
+}
